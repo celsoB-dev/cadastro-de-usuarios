@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+cadastro_de_funcionarios/cadastro_de_funcionarios.cbp
+cadastro_de_funcionarios/cadastro_de_funcionarios.depend
